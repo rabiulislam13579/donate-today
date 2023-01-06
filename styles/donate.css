@@ -56,3 +56,45 @@
      margin-left: 250px;
      margin-right: 250px;
 }
+/* section 2 */
+.donate{
+    text-align: center;
+    margin-top: 100px;
+}
+.donate-box{
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.box-one{
+    border: 1px solid white;
+    background-color:lightsteelblue;
+    padding-top: 40px;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-bottom: 40px;
+    border-radius: 5px;
+}
+.box-two{
+    border: 1px solid white;
+    background-color: lightpink;
+    padding-top: 40px;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-bottom: 40px;
+    border-radius: 5px;
+}
+.box-three{
+    border: 1px solid white;
+    background-color:limegreen;
+    padding-top: 40px;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-bottom: 40px;
+    border-radius: 5px;
+}
