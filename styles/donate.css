@@ -98,3 +98,21 @@
     padding-bottom: 40px;
     border-radius: 5px;
 }
+/* depends */
+.depends{
+    display: flex; 
+    margin-top: 100px;
+    gap: 20px;
+    
+
+}
+.depends-one{ 
+    padding: 60px 40px;
+}
+.depends-two{
+    width: 500px;
+    height: 300px;
+    margin-right: 100px;
+  
+}
+/* survive */
